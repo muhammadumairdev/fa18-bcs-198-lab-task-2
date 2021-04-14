@@ -1,0 +1,17 @@
+  .product {
+    border-bottom: solid rgb(0, 255, 0);
+  }
+  .product p {
+    padding: 3px;
+  }
+  #BTN {
+    border-bottom: solid rgb(0, 255, 0);
+  }
+  #button {
+    margin-bottom: 10px;
+    background-color: brown;
+  }
+  #products{
+    color: navy;
+  }
+  
